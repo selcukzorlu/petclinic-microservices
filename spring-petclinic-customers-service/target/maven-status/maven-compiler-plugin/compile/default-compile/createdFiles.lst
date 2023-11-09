@@ -1,5 +1,5 @@
-org/springframework/samples/petclinic/customers/model/Pet.class
 org/springframework/samples/petclinic/customers/model/PetType.class
+org/springframework/samples/petclinic/customers/model/Pet.class
 org/springframework/samples/petclinic/customers/web/PetRequest.class
 org/springframework/samples/petclinic/customers/web/OwnerResource.class
 org/springframework/samples/petclinic/customers/web/ResourceNotFoundException.class
