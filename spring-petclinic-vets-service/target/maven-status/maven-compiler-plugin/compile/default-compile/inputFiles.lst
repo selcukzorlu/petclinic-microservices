@@ -1,7 +1,0 @@
-/app/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/Specialty.java
-/app/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/VetsServiceApplication.java
-/app/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/system/VetsProperties.java
-/app/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/system/CacheConfig.java
-/app/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/web/VetResource.java
-/app/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/Vet.java
-/app/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/VetRepository.java
